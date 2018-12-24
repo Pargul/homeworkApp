@@ -1,0 +1,6 @@
+com\homework\entity\LoanApplicationEntity.class
+com\homework\entity\LoanEntity.class
+com\homework\LoanDao.class
+com\homework\LoanAnnexDao.class
+com\homework\entity\LoanAnnexEntity.class
+com\homework\LoanApplicationDao.class
